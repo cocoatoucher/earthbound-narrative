@@ -3,10 +3,10 @@
 
 A narrative flowchart of Earthbound(Mother 2) game
 
-You can pan, zoom and easily navigate around the chart:
-
 ****
 This is the product of a narrative structure study of the game. It is composed of conflict-solution-conclusion tables that are connected to each other and those follow a pretty much linear path.
+
+You can pan, zoom and easily navigate around the chart:
 
 [Click here for the chart](https://cocoatoucher.github.io/earthbound-narrative/)
 
