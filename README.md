@@ -1,7 +1,7 @@
 # Earthbound(1994) Narrative Flow Chart
 A narrative flow chart from Earthbound(Mother 2) game
 
-<a href="https://cocoatoucher.github.io/earthbound-narrative/">
+<a href="https://cocoatoucher.github.io/earthbound-narrative/" target="_blank">
 <img src="map-thumb.png" alt="Narrative Map" width="300"/>
 </a>
 
