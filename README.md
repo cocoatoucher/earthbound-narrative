@@ -1,15 +1,15 @@
 # Earthbound(1994) Narrative Flow Chart
-A narrative flow chart from Earthbound(Mother 2) game
+[Earthbound Wikipedia](https://en.wikipedia.org/wiki/EarthBound)
+
+A narrative flow chart of Earthbound(Mother 2) game
+
+You can pan, zoom and easily navigate around the chart:
 
 <a href="https://cocoatoucher.github.io/earthbound-narrative/" target="_blank">
 <img src="map-thumb.png" alt="Narrative Map" width="300"/>
 </a>
 
 [Click here for the chart](https://cocoatoucher.github.io/earthbound-narrative/)
-
-##### It is a map style pannable and zoomable diagram
-
-[Earthbound Wikipedia](https://en.wikipedia.org/wiki/EarthBound)
 
 ****
 This is the product of a narrative structure study of the game. It is composed of conflict-solution-conclusion tables that are connected to each other and those follow a pretty much linear path.
