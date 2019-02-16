@@ -1,11 +1,10 @@
 # Earthbound(1994) Narrative Flow Chart
 A narrative flow chart from Earthbound(Mother 2) game
 
-##### Click below for the chart:
-
-It is a map style pannable and zoomable diagram
-
+<img href="https://cocoatoucher.github.io/earthbound-narrative/" src="map-thumb.png" alt="Narrative Map" width="200"/>
 [https://cocoatoucher.github.io/earthbound-narrative/]()
+
+##### It is a map style pannable and zoomable diagram
 
 [Earthbound Wikipedia](https://en.wikipedia.org/wiki/EarthBound)
 
