@@ -1,8 +1,11 @@
 # Earthbound(1994) Narrative Flow Chart
 A narrative flow chart from Earthbound(Mother 2) game
 
-<img href="https://cocoatoucher.github.io/earthbound-narrative/" src="map-thumb.png" alt="Narrative Map" width="200"/>
-[https://cocoatoucher.github.io/earthbound-narrative/]()
+<a href="https://cocoatoucher.github.io/earthbound-narrative/">
+<img src="map-thumb.png" alt="Narrative Map" width="300"/>
+</a>
+
+[Click here for the chart](https://cocoatoucher.github.io/earthbound-narrative/)
 
 ##### It is a map style pannable and zoomable diagram
 
@@ -17,5 +20,3 @@ There was an effort to not include core gameplay mechanics such as specific enem
 
 > 
 Please open a pull request/open an issue or just let me know if you want to contribute. Please note that all the tables in the chart has an id next to them, e.g. A1, B2 which can be used for follow up.
-
-![](index-thumb.png)
