@@ -5,14 +5,15 @@ A narrative flowchart of Earthbound(Mother 2) game
 
 You can pan, zoom and easily navigate around the chart:
 
+****
+This is the product of a narrative structure study of the game. It is composed of conflict-solution-conclusion tables that are connected to each other and those follow a pretty much linear path.
+
+[Click here for the chart](https://cocoatoucher.github.io/earthbound-narrative/)
+
 <a href="https://cocoatoucher.github.io/earthbound-narrative/" target="_blank">
 <img src="map-thumb.png" alt="Narrative Map" width="300"/>
 </a>
 
-[Click here for the chart](https://cocoatoucher.github.io/earthbound-narrative/)
-
-****
-This is the product of a narrative structure study of the game. It is composed of conflict-solution-conclusion tables that are connected to each other and those follow a pretty much linear path.
 ****
 Since Earthbound is partly an open world game, this chart is one of likely many possible flows that could come out from different emergent gameplay combinations.
 ****
