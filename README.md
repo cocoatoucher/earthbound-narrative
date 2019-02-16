@@ -1,7 +1,7 @@
-# Earthbound(1994) Narrative Flow Chart
+# Earthbound(1994) Narrative Flowchart
 [Earthbound Wikipedia](https://en.wikipedia.org/wiki/EarthBound)
 
-A narrative flow chart of Earthbound(Mother 2) game
+A narrative flowchart of Earthbound(Mother 2) game
 
 You can pan, zoom and easily navigate around the chart:
 
