@@ -1,5 +1,8 @@
 # Earthbound(1994) Narrative Flow Chart
 A narrative flow chart from Earthbound(Mother 2) game
+
+[Earthbound Wikipedia](https://en.wikipedia.org/wiki/EarthBound)
+
 ****
 This is the product of a narrative structure study of the game. It is composed of conflict-solution-conclusion tables that are connected to each other and those follow a pretty much linear path.
 ****
